@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlayDemo</string>
+    <string name="require_permision_msg">播放视频，需要SD卡权限。</string>
+    <string name="ok">是</string>
+    <string name="net_change_to_4g">网络切换为4G</string>
+    <string name="net_change_to_wifi">网络切换为WIFI</string>
+    <string name="net_disconnect">网络已断开</string>
+    <string name="net_change_to_continue">是否继续播放？</string>
+    <string name="no">否</string>
+</resources>
